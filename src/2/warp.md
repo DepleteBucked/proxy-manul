@@ -95,6 +95,7 @@ Windows 端的 WARP 在右下角的小图标中，以下是应用打开后的界
 之后进入安装引导界面，选择合适位置安装即可
 
 ![安装引导](./res/oblivion_install.png)
+
 应用启动后为如下界面
 
 ![启动](./res/oblivion_intro.png)
